@@ -36,5 +36,19 @@ Whats New:
  
 ![image_123986672-2](https://user-images.githubusercontent.com/58381410/143156176-3d719666-b36d-4ded-b27a-53cbecf6891f.JPG)
  ![image_123986672](https://user-images.githubusercontent.com/58381410/143156159-54a9196a-9a9d-4158-a39c-3f2ac17b6728.JPG)
+ 
+ Creating Widgets:
+
+<img width="1503" alt="Screen Shot 2021-11-23 at 8 48 05 PM" src="https://user-images.githubusercontent.com/58381410/143156318-4bf34a45-4a92-4e60-a317-b5322bf627f9.png">
+
+<img width="1489" alt="Screen Shot 2021-11-23 at 8 48 42 PM" src="https://user-images.githubusercontent.com/58381410/143156374-c7354e99-2a88-424a-9bf1-a1efb5fe1196.png">
+
+<img width="1496" alt="Screen Shot 2021-11-23 at 8 49 03 PM" src="https://user-images.githubusercontent.com/58381410/143156403-035b6f13-0dd0-4105-ba50-2402a095f351.png">
+
+<img width="1505" alt="Screen Shot 2021-11-23 at 8 49 19 PM" src="https://user-images.githubusercontent.com/58381410/143156431-0a7cfbba-1c3d-459e-b60a-5887ba2027e5.png">
 
 
+
+<img width="1496" alt="Screen Shot 2021-11-23 at 8 49 36 PM" src="https://user-images.githubusercontent.com/58381410/143156461-1a44853b-8be1-48e3-b95b-6e8dbd5cec85.png">
+
+     
