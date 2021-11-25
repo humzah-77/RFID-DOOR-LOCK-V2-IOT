@@ -5,6 +5,8 @@ This program makes use of the built in EEPROM which allows storage of data indef
 
 This program also uses the Arduino IOT cloud. I used the Arduino Nano 33 IOT to connect to the cloud And an Arduino Uno to control the lock. *(I could have controlled the lock and cloud using just the Arduino Nano but both boards are already controling other projects so I decided to just keep them as is and communicate between the two)**. I then connect both Arduinos together. **(I tried to use the RX/TX pins on both arduino but ran into some trouble communicating between the two boards. I need to do more reasearch to get the serial communication working)**. In the mean time I have used 4 digital pins on each Arduino to communicate between the two. I only need to send a true or false(0 or 1) between the boards so the digital pins are used.
 
+<img width="1415" alt="Screen Shot 2021-11-24 at 8 25 45 PM" src="https://user-images.githubusercontent.com/58381410/143340638-98c10807-b24d-4328-88ac-81dd5d527b75.png">
+
 How To Run:
 
 1.  Wire modules and boards 
