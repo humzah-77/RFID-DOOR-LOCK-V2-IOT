@@ -15,8 +15,8 @@ How To Run:
 4. Once scanned the ID will be saved into EEPROM as the mastercard in slots 1,2,3,4 along with EEPROM poisition curser variable stored in slot 0
 5. Upload rfiddoorlock.ino to Arduino Uno board
 6. Connect Arduino Nano to cloud
-7. Upload lockv2cloud.ino onto the Arduino Nano 
-8. Create the Widgets for the cloud variables 
+7. Upload lockv2cloud.ino onto the Arduino Nano from cloud
+8. Create the Widgets and the cloud variables 
   eg.(String message;
   bool lock;
   bool openlock;
